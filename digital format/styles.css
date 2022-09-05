@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background: linear-gradient(to right, rgb(101, 216, 166), rgb(238, 197, 130));
+  min-height: 100vh;
+  overflow: hidden;
+}
+.digital-clock {
+  font-size: 3rem;
+  text-align: center;
+}
